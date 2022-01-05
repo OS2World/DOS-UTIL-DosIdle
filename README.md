@@ -17,5 +17,5 @@ AUTHORS
 
 LINKS
 ===============
-* http://glass.ptv.ru/dosidle.html
+* http://www.5nets.ru/dosidle.html
 
